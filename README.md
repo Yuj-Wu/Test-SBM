@@ -1,5 +1,5 @@
 # Test-SBM
-This file provides the code of the testing method proposed by "Testing the Stochastic Block Models Based on Maximum Sampling Entry-Wise Deviations".
+This file provides the code of our proposed testing method in "Testing the Stochastic Block Models Based on Maximum Sampling Entry-Wise Deviations".
 
 Test_I contains the code for testing hypothesis (I).
 
