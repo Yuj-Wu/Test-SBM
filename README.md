@@ -6,3 +6,5 @@ Test_I contains the codes for testing hypothesis (I).
 Test_II contains the codes for testing hypothesis (II).
 
 The function codes "*_Boot.m" and "*_Aug.m" in each file correspond to boostrap-corrected statistics and augmented statistics, respectively.
+
+"Simu_Main.m" is the main function.
